@@ -79,7 +79,7 @@ export default function Experience()
         <LandingTitle position={ [0, 0, 0] } />
 
         <ShapesLandingTitle position={ [ -3.9, 0.75, 1 ] } shapeId={ 1 } materialProps={ materialProps } />
-        <ShapesLandingTitle position={ [ 1.5, -0.8, 1 ] } shapeId={ 2 } materialProps={ materialProps } />
+        {/* <ShapesLandingTitle position={ [ 1.5, -0.8, 1 ] } shapeId={ 2 } materialProps={ materialProps } /> */}
 
         <SkillsSection />
 
